@@ -53,6 +53,7 @@ function Update_student() {
                   onChange={(event) => setSname(event.target.value)}
                   value={sname}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Name"
                 />
               </div>
@@ -64,6 +65,7 @@ function Update_student() {
                   onChange={(event) => setSgender(event.target.value)}
                   value={sgender}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Gender"
                 />
               </div>
@@ -75,6 +77,7 @@ function Update_student() {
                   onChange={(event) => setSmobile(event.target.value)}
                   value={smobile}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Mobile Number"
                 />
               </div>
@@ -86,6 +89,7 @@ function Update_student() {
                   onChange={(event) => setSdob(event.target.value)}
                   value={sdob}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your DOB"
                 />
               </div>
@@ -97,6 +101,7 @@ function Update_student() {
                   onChange={(event) => setSemail(event.target.value)}
                   value={semail}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Email Address"
                 />
               </div>

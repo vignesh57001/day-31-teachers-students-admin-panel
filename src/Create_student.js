@@ -48,6 +48,7 @@ function Create_student() {
                   value={formik.values.sname}
                   type="text"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Name"
                 />
               </div>
@@ -61,6 +62,7 @@ function Create_student() {
                   value={formik.values.sgender}
                   type="text"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Gender"
                 />
               </div>
@@ -74,6 +76,7 @@ function Create_student() {
                   value={formik.values.smobile}
                   type="number"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Mobile Number"
                 />
               </div>
@@ -87,6 +90,7 @@ function Create_student() {
                   value={formik.values.sdob}
                   type="date"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your DOB"
                 />
               </div>
@@ -100,6 +104,7 @@ function Create_student() {
                   value={formik.values.semail}
                   type="email"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Email Address"
                 />
               </div>

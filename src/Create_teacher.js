@@ -48,6 +48,7 @@ function Create_teacher() {
                   value={formik.values.tname}
                   type="text"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Name"
                 />
               </div>
@@ -61,6 +62,7 @@ function Create_teacher() {
                   value={formik.values.tgender}
                   type="text"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Gender"
                 />
               </div>
@@ -74,6 +76,7 @@ function Create_teacher() {
                   value={formik.values.tmobile}
                   type="number"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Mobile Number"
                 />
               </div>
@@ -87,6 +90,7 @@ function Create_teacher() {
                   value={formik.values.tdob}
                   type="date"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your DOB"
                 />
               </div>
@@ -100,6 +104,7 @@ function Create_teacher() {
                   value={formik.values.tsubject}
                   type="text"
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Favorite Subject"
                 />
               </div>

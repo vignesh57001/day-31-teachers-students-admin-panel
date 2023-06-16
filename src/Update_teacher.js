@@ -53,6 +53,7 @@ function Update_teacher() {
                   onChange={(event) => setTname(event.target.value)}
                   value={tname}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Name"
                 />
               </div>
@@ -64,6 +65,7 @@ function Update_teacher() {
                   onChange={(event) => setTgender(event.target.value)}
                   value={tgender}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Gender"
                 />
               </div>
@@ -75,6 +77,7 @@ function Update_teacher() {
                   onChange={(event) => setTmobile(event.target.value)}
                   value={tmobile}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Mobile Number"
                 />
               </div>
@@ -86,6 +89,7 @@ function Update_teacher() {
                   onChange={(event) => setTdob(event.target.value)}
                   value={tdob}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your DOB"
                 />
               </div>
@@ -97,6 +101,7 @@ function Update_teacher() {
                   onChange={(event) => setTsubject(event.target.value)}
                   value={tsubject}
                   className="form-control"
+                  required="required"
                   placeholder="Enter Your Favorite Subject"
                 />
               </div>
