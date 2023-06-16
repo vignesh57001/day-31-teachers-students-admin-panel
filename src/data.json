@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "tid": 1,
+      "tname": "Lakshmi",
+      "tgender": "Female",
+      "tmobile": "9865712345",
+      "tdob": "23/03/1990",
+      "tsubject": "Tamil",
+      "sid": 1,
+      "sname": "Vignesh",
+      "sgender": "Male",
+      "smobile": "9876543210",
+      "sdob": "23/11/2002",
+      "semail": "vignesh@gmail.com"
+    },
+    {
+      "tid": 2,
+      "tname": "Vijay",
+      "tgender": "Male",
+      "tmobile": "9865712346",
+      "tdob": "24/04/1991",
+      "tsubject": "English",
+      "sid": 2,
+      "sname": "Rajesh",
+      "sgender": "Male",
+      "smobile": "7894561230",
+      "sdob": "21/12/2003",
+      "semail": "rajesh@gmail.com"
+    },
+    {
+      "tid": 3,
+      "tname": "Raghav",
+      "tgender": "Male",
+      "tmobile": "8954612370",
+      "tdob": "25/08/1992",
+      "tsubject": "Maths",
+      "sid": 3,
+      "sname": "Surya",
+      "sgender": "Male",
+      "smobile": "8974561230",
+      "sdob": "11/01/2004",
+      "semail": "surya@gmail.com"
+    },
+    {
+      "tid": 4,
+      "tname": "Anil kumar",
+      "tgender": "Male",
+      "tmobile": "9658741230",
+      "tdob": "29/07/1993",
+      "tsubject": "Science",
+      "sid": 4,
+      "sname": "Pradeep",
+      "sgender": "Male",
+      "smobile": "7412036589",
+      "sdob": "12/04/2005",
+      "semail": "pradeep@gmail.com"
+    },
+    {
+      "tid": 5,
+      "tname": "Hari Kumar",
+      "tgender": "Male",
+      "tmobile": "8520369741",
+      "tdob": "26/09/1994",
+      "tsubject": "Social Science",
+      "sid": 5,
+      "sname": "Viswa",
+      "sgender": "Male",
+      "smobile": "9514786320",
+      "sdob": "17/07/2006",
+      "semail": "viswa@gmail.com"
+    }
+  ]
+}
