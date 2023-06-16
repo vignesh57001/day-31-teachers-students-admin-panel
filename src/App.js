@@ -23,6 +23,7 @@ function App() {
           <div id="content">
             <Topbar />
             <Routes>
+              <Route path="/" element={<Teachers />}></Route>
               <Route path="/dashboard" element={<Dashboard />}></Route>
               <Route path="/teachers" element={<Teachers />}></Route>
               <Route path="/students" element={<Students />}></Route>
